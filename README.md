@@ -10,9 +10,9 @@ Hi, My name is Ashutosh Kumar. In this project I have to tried to build a somewh
  lightweight and fast 3d physics engine for web. which calculate the collusion between two objects and updates the coordinates of objects.
  
 
-### Screenshot        ⚡          **[Preview online/Play it](https://behindi.github.io/threejs-cannonjs-physics-simulation-3D/)**
+### Screenshot        ⚡          **[Preview online/Play it](https://ashutokum.github.io/threejs-cannonjs-physics-simulation-3D/)**
 
-![threejs-cannonjs-3d-physics-simulation](https://github.com/BeHindiBlog/threejs-cannonjs-physics-simulation-3D/blob/main/Screenshot%202022-02-12%20070734.png?raw=true)
+![threejs-cannonjs-3d-physics-simulation](https://github.com/ashutokum/threejs-cannonjs-physics-simulation-3D/blob/main/Screenshot%202022-02-12%20070734.png?raw=true)
 
 
 
