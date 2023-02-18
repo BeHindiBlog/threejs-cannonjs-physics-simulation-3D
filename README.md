@@ -12,7 +12,7 @@ Hi, My name is Ashutosh Kumar. In this project I have to tried to build a somewh
 
 ### Screenshot        ⚡          **[Preview online/Play it](https://ashutokum.github.io/threejs-cannonjs-physics-simulation-3D/)**
 
-![threejs-cannonjs-3d-physics-simulation](https://ashutokum.github.io/threejs-cannonjs-physics-simulation-3D/Screenshot%202022-02-12%20070734.png?raw=true)
+![threejs-cannonjs-3d-physics-simulation](https://astokum.github.io/threejs-cannonjs-physics-simulation-3D/Screenshot%202022-02-12%20070734.png?raw=true)
 
 
 
