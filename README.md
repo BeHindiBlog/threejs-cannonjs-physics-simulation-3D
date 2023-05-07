@@ -1,6 +1,8 @@
 # threejs-cannonjs-physics-simulation-3D
 
-Hi, My name is Ashutosh Kumar. In this project I have to tried to build a somewhat game like environoment. In which A Ball is thrown to ground, hits ground and Objects avilable there in space it simulates?act like world 3D phsysics.
+Hi, My name is Ashutosh Kumar. 
+  
+In this project I have to tried to build a somewhat game like environoment. In which A Ball is thrown to ground, hits ground and Objects avilable there in space it's simulates?act like real world 3D phsysics.
 
 ## The library that has been used in Project:
  ### 1. [Threejs](https://threejs.org)
@@ -10,7 +12,7 @@ Hi, My name is Ashutosh Kumar. In this project I have to tried to build a somewh
  lightweight and fast 3d physics engine for web. which calculate the collusion between two objects and updates the coordinates of objects.
  
 
-### Screenshot        ⚡          **[Preview online/Play it](https://ashutokum.github.io/threejs-cannonjs-physics-simulation-3D/)**
+### Screenshot        ⚡          **[Preview online/Play it](https://astokum.github.io/threejs-cannonjs-physics-simulation-3D/)**
 
 ![threejs-cannonjs-3d-physics-simulation](https://astokum.github.io/threejs-cannonjs-physics-simulation-3D/Screenshot%202022-02-12%20070734.png?raw=true)
 
@@ -18,3 +20,4 @@ Hi, My name is Ashutosh Kumar. In this project I have to tried to build a somewh
 
 **Have you injoyed it?**
 
+_ Thanks 🙏🏼 _
