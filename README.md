@@ -11,6 +11,9 @@ In this project I have to tried to build a somewhat game like environoment. In w
  ### 2. [Cannonjs](https://schteppe.github.io/cannon.js/)
  lightweight and fast 3d physics engine for web. which calculate the collusion between two objects and updates the coordinates of objects.
  
+## To do list [* fixing*]
+- [ ] After drop, Ball 🏀 swing to fast ( rotational is high force)
+
 
 ### Screenshot        ⚡          **[Preview online/Play it](https://astokum.github.io/threejs-cannonjs-physics-simulation-3D/)**
 
